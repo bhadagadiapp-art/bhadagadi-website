@@ -33,7 +33,7 @@ const teamMembers: TeamMember[] = [
     slug: "vivek-anand",
     name: "Vivek Anand",
     role: "Founder",
-    image: "/team/Vivek.PNG",
+    image: "/team/vivek.png",
     description:
       "Vivek Anand is a Founder of Bhadagadi, India's Next Generation Taxi Platform.",
   },
