@@ -10,14 +10,14 @@ const leadership = [
   {
     name: "Vivek Anand",
     role: "Founder",
-    image: "/team/Vivek.PNG",
+    image: "/team/vivek.PNG",
     description:
       "A key founding member helping shape the vision, direction and growth of Bhadagadi.",
   },
   {
     name: "Gulshan Malhotra",
     role: "Founder",
-    image: "/team/Gulshan.PNG",
+    image: "/team/gulshan.PNG",
     description:
       "A key founding leader contributing to Bhadagadi's strategy, operations and long-term growth.",
   },
@@ -53,27 +53,27 @@ const team = [
   {
     name: "Suriyansh Kumar",
     role: "Chief Business Operations Manager",
-    image: "/team/Suriyansh.PNG",
+    image: "/team/suriyansh.PNG",
   },
   {
     name: "Pawan Kumar",
     role: "Head of Safety & Emergency Response",
-    image: "/team/Pawan.PNG",
+    image: "/team/pawan.PNG",
   },
   {
     name: "Ajit Kumar Keshari",
     role: "Product Manager",
-    image: "/team/Ajit.PNG",
+    image: "/team/ajit.PNG",
   },
   {
     name: "Gaurav Kumar Pal",
     role: "Customer Relations & Complaint Resolution Manager",
-    image: "/team/Gaurav.PNG",
+    image: "/team/gaurav.PNG",
   },
   {
     name: "Suraj Raj",
     role: "Training & Inventory Operations Manager",
-    image: "/team/Suraj.PNG",
+    image: "/team/suraj.PNG",
   },
   {
     name: "Saurav Raj",
