@@ -677,7 +677,7 @@ export default function TeamSection() {
                       letterSpacing: "1.5px",
                     }}
                   >
-                    🏢 {member.location}
+                    🏢 {activeView === "regional" ? (member as (typeof regional)[number]).location : ""}
                   </span>
                 </div>
               )}
@@ -773,7 +773,9 @@ export default function TeamSection() {
                       marginTop: "14px",
                     }}
                   >
-                    {member.description}
+                    {activeView === "leadership"
+  ? (member as (typeof leadership)[number]).description
+  : ""}
                   </p>
                 )}
               </div>
