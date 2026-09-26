@@ -10,7 +10,7 @@ const leadership = [
   {
     name: "Vivek Anand",
     role: "Founder",
-    image: "/team/vivek.PNG",
+    image: "/team/Vivek.PNG",
     description:
       "A key founding member helping shape the vision, direction and growth of Bhadagadi.",
   },

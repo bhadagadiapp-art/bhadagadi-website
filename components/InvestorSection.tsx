@@ -200,6 +200,7 @@ export default function InvestorSection() {
             borderColor: "#444",
             boxShadow: "0 15px 45px rgba(0,0,0,0.35)",
           }}
+          className="investor-cta"
           style={{
             background:
               "linear-gradient(135deg, #151515 0%, #0d0d0d 100%)",
