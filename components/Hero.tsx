@@ -239,7 +239,7 @@ export default function Hero() {
             }}
           >
             <Image
-              src="/images/app.png"
+              src="/images/Apps.png"
               alt="Bhadagadi App"
               width={300}
               height={560}
