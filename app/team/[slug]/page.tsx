@@ -41,7 +41,7 @@ const teamMembers: TeamMember[] = [
     slug: "gulshan-malhotra",
     name: "Gulshan Malhotra",
     role: "Founder",
-    image: "/team/Gulshan.PNG",
+    image: "/team/gulshan.PNG",
     description:
       "Gulshan Malhotra is a Founder of Bhadagadi, India's Next Generation Taxi Platform.",
   },
@@ -65,7 +65,7 @@ const teamMembers: TeamMember[] = [
     slug: "suriyansh-kumar",
     name: "Suriyansh Kumar",
     role: "Chief Business Operations Manager",
-    image: "/team/Suriyansh.PNG",
+    image: "/team/suriyansh.PNG",
     description:
       "Suriyansh Kumar serves as Chief Business Operations Manager at Bhadagadi.",
   },
@@ -73,7 +73,7 @@ const teamMembers: TeamMember[] = [
     slug: "pawan-kumar",
     name: "Pawan Kumar",
     role: "Head of Safety & Emergency Response",
-    image: "/team/Pawan.PNG",
+    image: "/team/pawan.PNG",
     description:
       "Pawan Kumar serves as Head of Safety and Emergency Response at Bhadagadi.",
   },
@@ -81,7 +81,7 @@ const teamMembers: TeamMember[] = [
     slug: "gaurav-kumar-pal",
     name: "Gaurav Kumar Pal",
     role: "Customer Relations & Complaint Resolution Manager",
-    image: "/team/Gaurav.PNG",
+    image: "/team/gaurav.PNG",
     description:
       "Gaurav Kumar Pal serves as Customer Relations and Complaint Resolution Manager at Bhadagadi.",
   },
@@ -89,7 +89,7 @@ const teamMembers: TeamMember[] = [
     slug: "suraj-raj",
     name: "Suraj Raj",
     role: "Training & Inventory Operations Manager",
-    image: "/team/Suraj.PNG",
+    image: "/team/suraj.PNG",
     description:
       "Suraj Raj serves as Training and Inventory Operations Manager at Bhadagadi.",
   },
@@ -97,7 +97,7 @@ const teamMembers: TeamMember[] = [
     slug: "saurav-raj",
     name: "Saurav Raj",
     role: "Training & Learning Development Manager",
-    image: "/team/Saurav.PNG",
+    image: "/team/saurav.PNG",
     description:
       "Saurav Raj serves as Training and Learning Development Manager at Bhadagadi.",
   },
@@ -105,7 +105,7 @@ const teamMembers: TeamMember[] = [
     slug: "ajit-kumar-keshari",
     name: "Ajit Kumar Keshari",
     role: "Product Manager",
-    image: "/team/Ajit.PNG",
+    image: "/team/ajit.PNG",
     description:
       "Ajit Kumar Keshari serves as Product Manager at Bhadagadi.",
   },
@@ -136,6 +136,18 @@ const teamMembers: TeamMember[] = [
     description:
       "Amit Sahani serves as Gaya Head for Bhadagadi.",
   },
+
+  {
+    slug: "sakshishri",
+    name: "Sakshi Shri",
+    role: "Nalanda Head",
+    image: "/team/sakshi.PNG",
+    location: "NALANDA",
+    description:
+      "Sakshi Shri serves as NALANDA BIHAR  Head for Bhadagadi.",
+  },
+
+
 ];
 
 export function generateStaticParams() {
