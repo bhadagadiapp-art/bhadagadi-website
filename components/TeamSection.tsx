@@ -115,6 +115,13 @@ const regional = [
   },
 
   {
+    name: "Sakshi Shri",
+    role: "Nalanda Bihar Head",
+    location: "Nalanda",
+    image: "/team/sakshi.PNG",
+  },
+
+  {
     name: "Ravi Kumar",
     role: "Patna Sahib Head",
     location: "Patna Sahib",
