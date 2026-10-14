@@ -174,6 +174,21 @@ export async function generateMetadata({
   return {
     title: `${member.name} | ${member.role} | Bhadagadi`,
     description: `${member.name} is associated with Bhadagadi. ${member.description}`,
+    keywords:
+  member.slug === "sakshishri"
+    ? [
+        "Sakshi Bhadagadi",
+        "Sakshi Shri Bhadagadi",
+        "Sakshi Shri Nalanda Head",
+        "Sakshi Shri Bhadagadi Nalanda",
+        "Bhadagadi Nalanda Head",
+        "Sakshi Bhadagadi team",
+      ]
+    : [
+        member.name,
+        '${member.name} Bhadagadi',
+        '${member.name} ${member.role}',
+      ],
     alternates: {
       canonical: `/team/${member.slug}`,
     },
